@@ -1,0 +1,1 @@
+# Jarque-bera-test-and-linear-regression-with-Python
